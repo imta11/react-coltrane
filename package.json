@@ -28,7 +28,7 @@
         "react-chord-diagram": "^1.0.4",
         "react-fretboard": "^0.0.2",
         "react-guitar-chords": "^0.0.5",
-        "react-dom": "^16.0.0",
+        "react-dom": "^16.2.1",
         "redux": "^3.7.2",
         "redux-form": "^7.2.0",
         "react-redux": "^5.0.6",
